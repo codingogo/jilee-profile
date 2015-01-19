@@ -14,6 +14,7 @@ gem 'bcrypt', '~> 3.1.7'
 
 gem 'bootstrap-sass'
 gem 'font-awesome-rails'
+gem 'rails_12factor'
 
 group :development do
   gem 'spring'
