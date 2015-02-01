@@ -1,11 +1,3 @@
-/*Theme    : Quick
- * Author  : Design_mylife
- * Version : V1.3
- * 
- */
-
-
-
 /* ==============================================
  Sticky Navbar
  =============================================== */
@@ -33,7 +25,6 @@ function close_toggle() {
 close_toggle();
 
 $(window).resize(close_toggle);
-
 
 
 
